@@ -127,6 +127,7 @@ var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
 	"Welcome To Arctic RP",
+	"Cynthia Shuler iS Babe",
 ];
 
 /*Random message order?
