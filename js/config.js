@@ -10,7 +10,7 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "logo.png";
+var l_serverImage = "Untitled.png";
 
 /*Display current map and gamemode?
 'true' or 'false'*/
