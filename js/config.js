@@ -18,7 +18,7 @@ var l_displayMapGamemode = true;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Arctic-RolePlay";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will use images
@@ -127,7 +127,6 @@ var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
 	"Welcome To Arctic RP",
-	"Cynthia Shuler iS Babe",
 ];
 
 /*Random message order?
